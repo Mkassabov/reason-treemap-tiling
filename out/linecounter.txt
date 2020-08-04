@@ -1,0 +1,45 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-08-04 07:02:10
+count workspace : c:\Users\michael\Desktop\code\reason-treemap-tiling
+total files : 22
+total code lines : 233
+total comment lines : 24
+total blank lines : 31
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |          .json|             37|              0|              2|     16|
+   |               |             42|              0|              0|     18|
+   |            .md|             16|              0|              8|    6.9|
+   |            .js|             63|             24|             15|     27|
+   |         .ninja|             32|              0|              0|     14|
+   |             .d|              1|              0|              0|   0.43|
+   |            .re|             42|              0|              6|     18|
+   -------------------------------------------------------------------------
+.gitignore, code is 6, comment is 0, blank is 0.
+.merlin, code is 10, comment is 0, blank is 0.
+bsconfig.json, code is 20, comment is 0, blank is 1.
+lib\bs\.bsbuild, it is a binary file.
+lib\bs\.bsdeps_js, it is a binary file.
+lib\bs\.ninja_deps, it is a binary file.
+lib\bs\.ninja_log, code is 26, comment is 0, blank is 0.
+lib\bs\.sourcedirs.json, code is 1, comment is 0, blank is 0.
+lib\bs\build.ninja, code is 32, comment is 0, blank is 0.
+lib\bs\ReasonTreemapTiling.cmi, it is a binary file.
+lib\bs\ReasonTreemapTiling.cmj, it is a binary file.
+lib\bs\ReasonTreemapTiling.cmt, it is a binary file.
+lib\bs\ReasonTreemapTiling.mlmap, it is a binary file.
+lib\bs\src\tiling-ReasonTreemapTiling.cmi, it is a binary file.
+lib\bs\src\tiling-ReasonTreemapTiling.cmj, it is a binary file.
+lib\bs\src\tiling-ReasonTreemapTiling.cmt, it is a binary file.
+lib\bs\src\tiling.d, code is 1, comment is 0, blank is 0.
+lib\bs\src\tiling.reast, it is a binary file.
+package.json, code is 16, comment is 0, blank is 1.
+README.md, code is 16, comment is 0, blank is 8.
+src\tiling.bs.js, code is 63, comment is 24, blank is 15.
+src\tiling.re, code is 42, comment is 0, blank is 6.
+===============================================================================

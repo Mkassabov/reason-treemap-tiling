@@ -1,0 +1,197 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\michael\\Desktop\\code\\reason-treemap-tiling",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2020-08-04 07:02:10",
+            "filesum": 22,
+            "codesum": 233,
+            "commentsum": 24,
+            "blanksum": 31,
+            "statistics": {
+                ".json": {
+                    "code": 37,
+                    "comment": 0,
+                    "blank": 2
+                },
+                "": {
+                    "code": 42,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 16,
+                    "comment": 0,
+                    "blank": 8
+                },
+                ".js": {
+                    "code": 63,
+                    "comment": 24,
+                    "blank": 15
+                },
+                ".ninja": {
+                    "code": 32,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".d": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                },
+                ".re": {
+                    "code": 42,
+                    "comment": 0,
+                    "blank": 6
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": ".merlin"
+                },
+                {
+                    "blank": 1,
+                    "code": 20,
+                    "comment": 0,
+                    "filename": "bsconfig.json"
+                },
+                {
+                    "filename": "lib\\bs\\.bsbuild",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "lib\\bs\\.bsdeps_js",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "lib\\bs\\.ninja_deps",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "lib\\bs\\.ninja_log"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "lib\\bs\\.sourcedirs.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "lib\\bs\\build.ninja"
+                },
+                {
+                    "filename": "lib\\bs\\ReasonTreemapTiling.cmi",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "lib\\bs\\ReasonTreemapTiling.cmj",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "lib\\bs\\ReasonTreemapTiling.cmt",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "lib\\bs\\ReasonTreemapTiling.mlmap",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "lib\\bs\\src\\tiling-ReasonTreemapTiling.cmi",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "lib\\bs\\src\\tiling-ReasonTreemapTiling.cmj",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "lib\\bs\\src\\tiling-ReasonTreemapTiling.cmt",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "lib\\bs\\src\\tiling.d"
+                },
+                {
+                    "filename": "lib\\bs\\src\\tiling.reast",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "blank": 8,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 15,
+                    "code": 63,
+                    "comment": 24,
+                    "filename": "src\\tiling.bs.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "src\\tiling.re"
+                }
+            ]
+        }
+    ]
+}
